@@ -1,6 +1,6 @@
 {
   "name": "knowble",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "high level abstraction for interacting with Bluetooth Low Energy peripherals and beacons",
   "main": "index.js",
   "scripts": {
